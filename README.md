@@ -1,4 +1,4 @@
-<h1>Ice Cream Sundae Maker App 🍦 <b><i>(Flutter Version)</i></b> </h1>
+<h1>Ice Cream Sundae Maker App 🍨 </h1>
 
 <h2>Description:</h2>
 An app where the user would be able to order the ice cream sundae of their choosing in an easy to use platform. They are provided with options that they can customize to their liking. Options such as size, flavor, toppings, and the amount of fudge for the sundae. While customizing their sundae they are also provided with a continous price update, so they know exactly how much their sundae will be. Once the user is done customizing, they can press the order button to have the order submitted (seeing that the app isn't real, the order information is only used for the history page). The app also has a menu with two different other pages for the user to use. It has an about page, where the user can find out more about the ice cream company and the app. It also has a history page that keeps track of all the orders submitted by the user. 
